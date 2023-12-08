@@ -1,2 +1,2 @@
 # Swift_Lab
-Effective_Swift_Lab
+Лабораторная работа по SwiftUI c курсов Effective. Сделаны 4 экрана. Карточка доктора и категории - кнопки.
